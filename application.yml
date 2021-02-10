@@ -1,0 +1,4 @@
+server:
+  email: configserver@javabycode.com
+  ip: 127.0.0.1
+  path: /localhost
